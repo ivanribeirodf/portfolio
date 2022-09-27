@@ -110,21 +110,21 @@ section ul li:hover {
 .game-list img {
   width: 90px;
   border-radius: 8px;
-  box-shadow: 3px 3px rgba(209, 199, 199, 0.19);
+  box-shadow: 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .tools-list img {
   border-radius: 10%;
   width: 70px;
   border: 1px solid #443e54;
-  box-shadow: 3px 3px rgba(209, 199, 199, 0.19);
+  box-shadow: 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .channel-list img {
   border-radius: 50%;
   width: 70px;
   border: 1px solid #443e54;
-  box-shadow: 3px 3px rgba(8, 8, 8, 0.19);
+  box-shadow: 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 /*ANIMATION*/
