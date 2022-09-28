@@ -12,6 +12,7 @@
 
 - HTML
 - CSS
+- Notion
 - GIT
 - Figma
 - VsCode
