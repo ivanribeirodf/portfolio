@@ -8,7 +8,7 @@
 
 ### Semana NLW - Rocketseat
 
-## Tecnologia
+## Tecnologia que utilizei
 
 - HTML
 - CSS
@@ -16,3 +16,5 @@
 - Figma
 - VsCode
 - Photoshop
+
+[Portfolio] (http://ivanribeiro.infinityfreeapp.com/ "Meu portfolio")
