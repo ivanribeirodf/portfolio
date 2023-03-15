@@ -39,6 +39,7 @@ header div {
   padding: 4px;
   transition: transform 0.3s;
 }
+
 header div:hover {
   transform: scale(1.1);
 }
@@ -47,13 +48,12 @@ header div img {
   width: 100%;
   border-radius: 50%;
 }
-header hgroup {
+
+header span {
   text-align: center;
   background-image: linear-gradient(to bottom, rgb(6, 98, 20), #43e7ad, #fff);
-  color: #9572fc;
+  color: #8f9092;
   background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
 }
 
 main {
@@ -63,6 +63,7 @@ main {
   display: grid;
   gap: 24px;
 }
+
 section {
   color: #fff;
   background-image: linear-gradient(
