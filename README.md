@@ -18,4 +18,4 @@
 - VsCode
 - Photoshop
 
-[Portfolio] (http://ivanribeiro.infinityfreeapp.com/ "Meu portfolio")
+[Portfolio] (http://ivanribeiro.dev.br)
