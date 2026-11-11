@@ -27,7 +27,7 @@ function Hero() {
     <div className="hero-copy">
       <div className="eyebrow"><span className="pulse" /> {profile.availability}</div>
       <p className="hero-kicker">OLÁ, EU SOU {profile.name.toUpperCase()}</p>
-      <h1>Engenharia de software<br/>com <span className="gradient-text">visão de ponta a ponta.</span></h1>
+      <h1>Desenvolvedor de software<br/>com <span className="gradient-text">visão de ponta a ponta.</span></h1>
       <p className="hero-lead">{profile.intro}</p>
       <div className="hero-actions">
         <a className="button button-primary" href="#projetos">Explorar projetos <ArrowUpRight size={17}/></a>
